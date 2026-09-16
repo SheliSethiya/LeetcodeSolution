@@ -6,6 +6,7 @@
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2235-add-two-integers) |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1512-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
