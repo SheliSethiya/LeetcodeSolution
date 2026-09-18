@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -50,6 +51,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
@@ -66,6 +68,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
