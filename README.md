@@ -12,6 +12,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2469-convert-the-temperature) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1920-build-array-from-permutation) |
+| [2169-count-operations-to-obtain-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2169-count-operations-to-obtain-zero) |
 ## Hash Table
 |  |
 | ------- |
