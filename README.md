@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
