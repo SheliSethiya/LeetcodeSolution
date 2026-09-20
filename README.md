@@ -13,6 +13,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1512-number-of-good-pairs) |
+| [1837-sum-of-digits-in-base-k](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/2235-add-two-integers) |
