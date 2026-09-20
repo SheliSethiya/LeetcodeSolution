@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0412-fizz-buzz) |
