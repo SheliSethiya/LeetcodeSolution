@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1920-build-array-from-permutation) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -91,8 +93,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0191-number-of-1-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
