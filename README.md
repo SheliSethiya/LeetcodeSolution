@@ -31,6 +31,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -102,4 +104,16 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
