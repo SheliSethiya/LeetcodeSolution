@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
@@ -93,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -107,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -115,5 +118,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
