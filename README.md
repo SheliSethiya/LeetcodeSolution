@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
