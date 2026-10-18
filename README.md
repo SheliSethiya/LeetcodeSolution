@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0412-fizz-buzz) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
