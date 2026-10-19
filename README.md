@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -81,6 +82,7 @@
 | [0035-search-insert-position](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0875-koko-eating-bananas) |
