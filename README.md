@@ -82,6 +82,7 @@
 | [0035-search-insert-position](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
