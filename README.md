@@ -40,6 +40,7 @@
 | [0704-binary-search](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
@@ -110,14 +111,17 @@
 | [0075-sort-colors](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -149,4 +153,20 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SheliSethiya/LeetcodeSolution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
